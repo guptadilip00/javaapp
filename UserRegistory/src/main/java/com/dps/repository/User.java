@@ -12,6 +12,7 @@ import javax.persistence.Table;
 
 //Adding commit 1
 //Adding commit -2
+// Adding commit -3
 @Entity
 // 
 @Table(name = "user")
