@@ -10,7 +10,7 @@ import javax.persistence.Id;
 import javax.persistence.Table;
 
 
-
+//Adding commit 1
 @Entity
 // 
 @Table(name = "user")
